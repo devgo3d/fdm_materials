@@ -5,7 +5,7 @@ Generic Polypropylene profile. Serves as an example file, data in this file is n
 <fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
     <metadata>
         <name>
-            <brand>Generic</brand>
+            <brand>Go3D</brand>
             <material>PP</material>
             <color>Generic</color>
         </name>
@@ -158,7 +158,7 @@ Generic Polypropylene profile. Serves as an example file, data in this file is n
         </machine>
 
         <machine>
-            <machine_identifier manufacturer="Ultimaker B.V." product="Ultimaker Factor 4" />
+            <machine_identifier manufacturer="Go3D" product="go3d_500" />
             <setting key="print temperature">220</setting>
             <setting key="build volume temperature">40</setting>
             <setting key="heated bed temperature">85</setting>
